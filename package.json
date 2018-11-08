@@ -1,0 +1,26 @@
+{
+  "name": "@muxer/lambda-utils",
+  "version": "1.0.0",
+  "description": "Shared utility functionality for lambdas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muxer-dev/lambda-utils.git"
+  },
+  "keywords": [
+    "lambda",
+    "utils"
+  ],
+  "author": "Alistair Brown <npm@alistairjcbrown.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/muxer-dev/lambda-utils/issues"
+  },
+  "homepage": "https://github.com/muxer-dev/lambda-utils#readme",
+  "dependencies": {
+    "aws-lambda-data-utils": "^1.0.0"
+  }
+}
